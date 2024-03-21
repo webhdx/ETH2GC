@@ -61,7 +61,7 @@ To make your own **ETH2GC Lite** you need to:
 
 ### Ordering PCB
 
-The PCB is really simple and it shouldn't be expensive to order. You can use OshPark, JLCPCB, PCBWay, AISLER etc. To order the PCB, download *.zip file from [Releases page](https://github.com/webhdx/ETH2GC/releases/latest) containing PCB gerbers and upload them to manufacturer website. There are a few requirements you have to pay attention to during order:
+The PCB is really simple and it shouldn't be expensive to order. You can use OshPark, JLCPCB, PCBWay, AISLER etc. To order the PCB, download *.zip file from [Releases page](https://github.com/webhdx/ETH2GC/releases/latest) containing PCB gerbers and upload them to manufacturer's website. There are a few requirements you have to pay attention to during order:
 
 - PCB Thickness: **1.2mm**
 - Finish: **ENIG** (HASL might work but it is not recommended)
