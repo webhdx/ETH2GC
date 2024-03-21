@@ -3,7 +3,7 @@
 <img align="right" height="200" src="assets/eth2gc_black.png#gh-light-mode-only">
 <img align="right" height="200" src="assets/eth2gc_white.png#gh-dark-mode-only">
 
-Thanks to @Extrems and his work on [Swiss](https://github.com/emu_kidid/swiss-gc) we can now use cheap off-the-shelf Ethernet modules to emulate rare and expensive Broadband Adapter for the GameCube.
+Thanks to [@Extrems](https://github.com/Extrems) and his work on [Swiss](https://github.com/emukidid/swiss-gc/) we can now use cheap off-the-shelf Ethernet modules to emulate rare and expensive Broadband Adapter for the GameCube.
 
 Some of the cool things you can do with **ETH2GC**:
 * Play Mario Kart: Double Dash!! online multiplayer with Kirbymimi's online mod
@@ -71,6 +71,6 @@ If you haven't done it before, you can order from PCBWay using [this link](https
 By buying from the links above, I get small commision at no additional charge for you. Thanks for supporting the project 🙏
 
 ## Final words
-- ⚠️ Please note this project is under Non Commercial license. Selling ETH2GC modules is strictly prohibited. ⚠️
-- Please check out projects like [Swiss](https://github.com/emukidid/swiss-gc/) and [GBI](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface). Consider supporting @Extrems via [his Patreon](https://www.patreon.com/Extrems). 
+- ⚠️ Please note this project is under Non Commercial license. Selling ETH2GC modules is strictly prohibited.
+- Please check out projects like [Swiss](https://github.com/emukidid/swiss-gc/) and [GBI](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface). Consider supporting [@Extrems](https://github.com/Extrems) via [his Patreon](https://www.patreon.com/Extrems). 
 - Greetings to #gc-forever crew :wave:
