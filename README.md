@@ -30,10 +30,10 @@ Visit **#eth2gc** on:
 
 
 > [!TIP]
-> Are you interested in buying fully assembled unit or DIY kit? I'm selling these [on my store](https://store.webhdx.dev/)!
+> Are you interested in buying fully assembled unit or DIY kit? I'm selling these [on my store](https://store.webhdx.dev/)
 
 ## ETH2GC Lite
-![ETH2GC Lite](assets/Lite/ETH2GC_Lite.jpg) ![ETH2GC Lite PCB](assets/Lite/ETH2GC_Lite_PCB.jpg)
+![ETH2GC Lite](assets/Lite/ETH2GC_Lite.jpg)
 
 | Ethernet NIC | Connection        | Console compatibility  |
 |--------------|-------------------|------------------------|
@@ -48,7 +48,7 @@ To make your own ETH2GC Lite you need to:
 - assemble everything
 
 > [!TIP]
-> Are you interested in buying fully assembled unit or DIY kit? I'm selling these [on my store](https://store.webhdx.dev/)!
+> Are you interested in buying fully assembled unit or DIY kit? I'm selling these [on my store](https://store.webhdx.dev/)
 
 ### Parts list
 | Part                                              | Quantity | Links                                                                                                                                                                                                                                                                                          |
