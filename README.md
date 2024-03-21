@@ -50,7 +50,7 @@ To make your own **ETH2GC Lite** you need to:
 - assemble everything
 
 > [!TIP]
-> Are you interested in buying fully assembled unit or DIY kit? I'm selling these [on my store 🛍️](https://store.webhdx.dev/)
+> Are you interested in buying fully assembled unit or DIY kit? I'm selling these [in my store 🛍️](https://store.webhdx.dev/)
 
 ### Parts list
 | Part                                              | Quantity | Links                                                                                                                                                                                                                                                                                          |
