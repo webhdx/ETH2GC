@@ -13,7 +13,7 @@ Some of the cool things you can do with **ETH2GC**:
 * Debug your own homebrew applications
 * ...and much more
 
-ETH2GC is a project bringing together various Ethernet adapter hardware variants. The project is actively supported and more Ethernet NICs are planned to be supported in the future.
+ETH2GC is a project bringing together various Ethernet adapter hardware variants. The project is actively supported and compatibility with other Ethernet NICs is planned in the future.
 
 Visit **#eth2gc** on:
 
