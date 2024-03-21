@@ -19,7 +19,7 @@ Visit **#eth2gc** on:
 
 [![](https://dcbadge.vercel.app/api/server/fEhyWRPCmb)](https://click.webhdx.dev/discord)
 
-## Sidecar
+## 🌐 ETH2GC Sidecar
 ![ETH2GC Sidecar](assets/Sidecar/ETH2GC_Sidecar.jpg)
 
 | Ethernet NIC | Connection        | Console compatibility  |
@@ -32,16 +32,16 @@ Visit **#eth2gc** on:
 > [!TIP]
 > Are you interested in buying fully assembled unit or DIY kit? I'm selling these [on my store](https://store.webhdx.dev/)
 
-## ETH2GC Lite
+## 🌐 ETH2GC Lite
 ![ETH2GC Lite](assets/Lite/ETH2GC_Lite.jpg)
 
 | Ethernet NIC | Connection        | Console compatibility  |
 |--------------|-------------------|------------------------|
 | **ENC28J60** | **Serial Port 2** | **DOL-001 (with SP2)** |
 
-This is the simplest adapter available. It uses a single PCB that interfaces ENC28J60 module with GameCube. ETH2GC Lite is compatible with most DOL-001 consoles as long as they have Serial Port 2. Panasonic Q, DOL-101 and possibly some other less common models are not supported. This variant is also incompatible with GameBoy Player but it's possible to trim through hole legs and replace a capacitor on ENC28J60 board to make it fit.
+This is the simplest adapter available. It uses a single PCB that interfaces ENC28J60 module with GameCube. **ETH2GC Lite** is compatible with most DOL-001 consoles as long as they have Serial Port 2. Panasonic Q, DOL-101 and possibly some other less common models are not supported. This variant is also incompatible with GameBoy Player but it's possible to trim through hole legs and replace a capacitor on ENC28J60 board to make it fit.
 
-To make your own ETH2GC Lite you need to:
+To make your own **ETH2GC Lite** you need to:
 - order parts using Parts List below
 - do some soldering but don't worry - it's a perfect project for newbies!
 - print or get printed 3D case design
