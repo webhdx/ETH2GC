@@ -19,8 +19,8 @@ Visit **#eth2gc** on:
 
 [![](https://dcbadge.vercel.app/api/server/fEhyWRPCmb)](https://click.webhdx.dev/discord)
 
-## Documentation
-More extensive documentation is available at [**support.webhdx.dev**](https://support.webhdx.dev).
+## 📚 Documentation
+More extensive documentation including ordering and build guides is available at [**support.webhdx.dev**](https://support.webhdx.dev).
 
 ## 🌐 ETH2GC Sidecar
 ![ETH2GC Sidecar](assets/Sidecar/ETH2GC_Sidecar.jpg)
@@ -71,9 +71,9 @@ If you haven't done it before, you can order from PCBWay using [this link](https
 
 [![Support me on PCBWay](https://www.pcbway.com/project/img/images/frompcbway-1220.png)](https://www.pcbway.com/project/shareproject/ETH2GC_Lite_Broadband_Adapter_Emulator_for_Nintendo_GameCube_873eba5c.html)
 
-By buying from the links above, I get small commision at no additional charge for you. Thanks for supporting the project 🙏
+*By buying from the links above, I get small commision at no additional charge for you. Thanks for supporting the project 🙏*
 
 ## Final words
 - ⚠️ **Please note this project is under Non Commercial license. Selling ETH2GC modules is strictly prohibited.**
-- Please check out projects like [Swiss](https://github.com/emukidid/swiss-gc/) and [GBI](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface). Consider supporting [@Extrems](https://github.com/Extrems) via [his Patreon](https://www.patreon.com/Extrems). 
+- Please check out other awesome projects: [Swiss](https://github.com/emukidid/swiss-gc/) and [GBI](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface). Consider supporting [@Extrems](https://github.com/Extrems) via [his Patreon](https://www.patreon.com/Extrems). 
 - Greetings to #gc-forever crew :wave:
