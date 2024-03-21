@@ -19,6 +19,9 @@ Visit **#eth2gc** on:
 
 [![](https://dcbadge.vercel.app/api/server/fEhyWRPCmb)](https://click.webhdx.dev/discord)
 
+## Documentation
+More extensive documentation is available at [**support.webhdx.dev**](https://support.webhdx.dev).
+
 ## 🌐 ETH2GC Sidecar
 ![ETH2GC Sidecar](assets/Sidecar/ETH2GC_Sidecar.jpg)
 
