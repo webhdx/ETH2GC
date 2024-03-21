@@ -31,9 +31,8 @@ More extensive documentation including ordering and build guides is available at
 
 **ETH2GC Sidecar** is premium hardware variant that offers much tidier setup. It's not only compatible with GameBoy Player but also routes cables neatly towards the back of the console. It's secured using springy clip, similar to how original Serial Port 2 cover is mounted. 
 
-
 > [!TIP]
-> Are you interested in buying fully assembled unit or DIY kit? I'm selling these [on my store](https://store.webhdx.dev/)
+> This variant is only available through me store as a fully assembled unit or DIY kit. If you are interested, please [visit my store](https://store.webhdx.dev/)
 
 ## 🌐 ETH2GC Lite
 ![ETH2GC Lite](assets/Lite/ETH2GC_Lite.jpg)
@@ -51,7 +50,7 @@ To make your own **ETH2GC Lite** you need to:
 - assemble everything
 
 > [!TIP]
-> This variant is only available through me store as a fully assembled unit or DIY kit. If you are interested, please [visit my store](https://store.webhdx.dev/)
+> Are you interested in buying fully assembled unit or DIY kit? I'm selling these [on my store](https://store.webhdx.dev/)
 
 ### Parts list
 | Part                                              | Quantity | Links                                                                                                                                                                                                                                                                                          |
