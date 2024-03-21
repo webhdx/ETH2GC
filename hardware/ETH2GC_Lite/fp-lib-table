@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Nintendo GameCube")(type "KiCad")(uri "/Users/maciejkobus/Projects/ETH2GC/hardware/library")(options "")(descr ""))
+)
