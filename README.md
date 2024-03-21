@@ -71,6 +71,6 @@ If you haven't done it before, you can order from PCBWay using [this link](https
 By buying from the links above, I get small commision at no additional charge for you. Thanks for supporting the project 🙏
 
 ## Final words
-- ⚠️ Please note this project is under Non Commercial license. Selling ETH2GC modules is strictly prohibited.
+- ⚠️ **Please note this project is under Non Commercial license.** Selling ETH2GC modules is strictly prohibited.
 - Please check out projects like [Swiss](https://github.com/emukidid/swiss-gc/) and [GBI](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface). Consider supporting [@Extrems](https://github.com/Extrems) via [his Patreon](https://www.patreon.com/Extrems). 
 - Greetings to #gc-forever crew :wave:
