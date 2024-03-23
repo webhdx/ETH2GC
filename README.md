@@ -41,7 +41,7 @@ More extensive documentation including ordering and build guides is available at
 |--------------|-------------------|------------------------|
 | **ENC28J60** | **Serial Port 2** | **DOL-001 (with SP2)** |
 
-This is the simplest adapter available. It uses a single PCB that interfaces ENC28J60 module with GameCube. **ETH2GC Lite** is compatible with most DOL-001 consoles as long as they have Serial Port 2. Panasonic Q, DOL-101 and possibly some other less common models are not supported. This variant is also incompatible with GameBoy Player but it's possible to trim through hole legs and replace a capacitor on ENC28J60 board to make it fit.
+This is the simplest adapter available. It uses a single PCB that interfaces ENC28J60 module with GameCube. **ETH2GC Lite** is compatible with most DOL-001 consoles as long as they have Serial Port 2. Panasonic Q, DOL-101 and possibly some other less common models are not supported. This variant is also incompatible with GameBoy Player but it's possible to trim through hole legs and replace bulky capacitor on ENC28J60 board to make it fit.
 
 To make your own **ETH2GC Lite** you need to:
 - order parts using Parts List below
@@ -56,7 +56,7 @@ To make your own **ETH2GC Lite** you need to:
 | Part                                              | Quantity | Links                                                                                                                                                                                                                                                                                          |
 |---------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ENC28J60 MINI                                     | 1        | [AliExpress](https://s.click.aliexpress.com/e/_DlkjMGp)                                                                                                                                                                                                                                        |
-| 2x5P Female Headers<br>8.5mm P=2.54mm Right-Angle | 1        | [LCSC](https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00843_C2685127.html)<br>[Mouser](https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00843_C2685127.html)<br>[Digikey](https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00843_C2685127.html) |
+| 2x5P Female Headers<br>8.5mm P=2.54mm Right-Angle | 1        | [LCSC](https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00843_C2685127.html)<br>[Mouser](https://www2.mouser.com/ProductDetail/Wurth-Elektronik/613010243121?qs=ZtY9WdtwX54mDpZwGjr8IA%3D%3D)<br>[Digikey](https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPTC052LJBN-RC/775977) |
 | PCB                                               | 1        | [PCBWay](https://www.pcbway.com/project/shareproject/ETH2GC_Lite_Broadband_Adapter_Emulator_for_Nintendo_GameCube_873eba5c.html)                                                                                                                                                               |
 
 ### Ordering PCB
