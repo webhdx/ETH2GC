@@ -3,7 +3,7 @@
 <img align="right" height="200" src="assets/eth2gc_black.png#gh-light-mode-only">
 <img align="right" height="200" src="assets/eth2gc_white.png#gh-dark-mode-only">
 
-Thanks to [@Extrems](https://github.com/Extrems) and his work on [Swiss](https://github.com/emukidid/swiss-gc/) we can now use cheap off-the-shelf Ethernet modules to emulate rare and expensive Broadband Adapter for the GameCube.
+Thanks to [@Extrems](https://github.com/Extrems) and his work on [Swiss](https://github.com/emukidid/swiss-gc/) we can now use cheap off-the-shelf Ethernet modules to emulate rare and expensive Broadband Adapter for GameCube.
 
 Some of the cool things you can do with **ETH2GC**:
 * Play Mario Kart: Double Dash!! online multiplayer with Kirbymimi's online mod
@@ -13,7 +13,7 @@ Some of the cool things you can do with **ETH2GC**:
 * Debug your own homebrew applications
 * ...and much more
 
-ETH2GC is a project bringing together various Ethernet adapter hardware variants. The project is actively supported and compatibility with other Ethernet NICs is planned in the future.
+ETH2GC is a project bringing together various Ethernet adapter hardware variants. The project is actively supported and adding more capable Ethernet drivers is planned.
 
 Visit **#eth2gc** on:
 
