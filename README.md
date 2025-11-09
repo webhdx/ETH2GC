@@ -17,7 +17,7 @@ ETH2GC is a project bringing together various Ethernet adapter hardware variants
 
 Visit **#eth2gc** on:
 
-[![](https://dcbadge.vercel.app/api/server/fEhyWRPCmb)](https://click.webhdx.dev/discord)
+[![](https://dcbadge.limes.pink/api/server/fEhyWRPCmb)](https://click.webhdx.dev/discord)
 
 ## 📚 Documentation
 More extensive documentation including ordering and build guides is available at [**support.webhdx.dev**](https://support.webhdx.dev).
